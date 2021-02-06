@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    font-family: 'Yusei Magic', sans-serif;
+}
+.fa {
+   
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  div.a.fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  @media only screen and (min-width: 1200px){
+.jcuoNp .mamaearth-logo-wrapper img {
+    max-width: 140px;
+}
+  }
